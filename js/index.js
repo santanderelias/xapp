@@ -1,2 +1,3 @@
 console.log('does it work?');
-setTimeout(() => { console.log("it surely does"); }, 100);
+sleep(2000);
+console.log('it surely does');
